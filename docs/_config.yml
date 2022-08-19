@@ -20,7 +20,7 @@
 
 title: Arne Van Antwerpen
 email: arne.van.antwerpen@vub.be
-description: Homepage of Arne Van Antwerpen, Post-doc at VUB
+description: Post-doc (junior, funded by FWO)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vanantwerpen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
