@@ -9,7 +9,7 @@ Pleinlaan 2,
 
 email: arne.van.antwerpen@vub.be
 
-[Arxiv](https://arxiv.org/search/?searchtype=author&query=Van+Antwerpen%2C+A)
+[Arxiv](https://arxiv.org/search/?searchtype=author&query=Van+Antwerpen%2C+A), [MathSciNet](https://mathscinet-ams-org/mathscinet/search/author.html?mrauthid=1273209)
 # Publications
 ## Preprints
 
