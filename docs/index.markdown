@@ -1,5 +1,6 @@
+title: Arne Van Antwerpen
 
-## Current Affiliation
+# Current Affiliation
 Vrije Universiteit Brussel  
 Faculty of Sciences and Bioengineering Sciences  
 Department of Mathematics and Data Science  
