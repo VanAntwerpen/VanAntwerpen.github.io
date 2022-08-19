@@ -1,4 +1,1 @@
----
-layout: home
-- ---
-title: "Arne Van Antwerpen"
+Address: Pleinlaan 2, 1050 Brussels
