@@ -25,4 +25,8 @@ email: arne.van.antwerpen@vub.be
 * Corrigendum et addendum to The structure monoid and algebra of a non-degenerate set-theoretic solution of the Yang-Baxter equation (w. E.Jespers, L.Kubat), *Transactions of the American Mathematical Society* 373 (6) (2020): 4517-4521.  
 * Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation (w. E.Jespers, L.Kubat, L.Vendramin), *Advances in Mathematics* 385 (2021): 107767.  
 * Left non-degenerate set-theoretic solutions of the Yang-Baxter equation and semitrusses (w. I.Colazzo, E.Jespers, C.Verwimp), *Journal of Algebra* 610 (2022): 409-462.  
-* On various types of nilpotency of the structure monoid and group of a set-theoretic solution of the Yang-Baxter equation (w. F.Cedó, E.Jespers, L.Kubat, C. Verwimp), *Journal of Pure and Applied Algebra* 227 (2) (2023): 107194.  
+* On various types of nilpotency of the structure monoid and group of a set-theoretic solution of the Yang-Baxter equation (w. F.Cedó, E.Jespers, L.Kubat, C. Verwimp), *Journal of Pure and Applied Algebra* 227 (2) (2023): 107194.
+
+#Collaborators
+
+[Leandro Vendramin](https://vendramin.github.io/), [Eric Jespers](https://we.vub.ac.be/nl/eric-jespers), [Łukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Ilaria Colazzo](https://www.ilariacolazzo.info/), [Charlotte Verwimp](https://we.vub.ac.be/nl/charlotte-verwimp-0), [Ferran Cedó](https://portalrecerca.uab.cat/en/persons/ferran-cedo-gine-4).
