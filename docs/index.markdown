@@ -11,10 +11,10 @@ email: arne.van.antwerpen@vub.be
 [CV](https://vanantwerpen.github.io/Academic_CV%20(10).pdf), [Arxiv](https://arxiv.org/search/?searchtype=author&query=Van+Antwerpen%2C+A), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1273209), [Google Scholar](https://scholar.google.com/citations?user=mi_muVoAAAAJ&hl=nl&oi=ao), [ZbMath](https://zbmath.org/authors/?q=ai%3Avan-antwerpen.arne), [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-7619-6298)
 # Publications
 ## Preprints
-* Finite idempotent set-theoretic solutions of the Yang-Baxter equation (w.I. Colazzo, E. Jespers, L. Kubat, C. Verwimp), Arxiv:2212.07361.
+* [Finite idempotent set-theoretic solutions of the Yang-Baxter equation](https://arxiv.org/abs/2212.07361) (w.I. Colazzo, E. Jespers, L. Kubat, C. Verwimp), Arxiv:2212.07361.
 
 ## Accepted for publication
-* Nilpotency of skew braces and multipermutation solutions of the Yang-Baxter equation (w. E.Jespers, L.Vendramin), *Communications in Contemporary Mathematics*  (2023).
+* [Nilpotency of skew braces and multipermutation solutions of the Yang-Baxter equation](https://arxiv.org/abs/2205.01572) (w. E.Jespers, L.Vendramin), *Communications in Contemporary Mathematics*  (2023).
 
 ## Published
 
