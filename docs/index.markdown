@@ -1,7 +1,7 @@
-Universiteit Gent
-Department Mathematics: Algebra and Geometry
-Krijgslaan 281 - S25
-9000 Ghent
+Universiteit Gent\
+Department Mathematics: Algebra and Geometry\
+Krijgslaan 281 - S25\
+9000 Ghent\
 Belgium
 
 email: arne.vanantwerpen@ugent.be
