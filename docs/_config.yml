@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Arne Van Antwerpen
-email: arne.van.antwerpen@vub.be
-description: Post-doc (junior, funded by FWO)
+email: arne.vanantwerpen@ugent.be
+description: doctor-assistant (post-doc)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vanantwerpen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
