@@ -6,7 +6,7 @@ Belgium
 
 email: arne.vanantwerpen@ugent.be
 
-[CV](https://vanantwerpen.github.io/Academic_CV%20(10).pdf), [Arxiv](https://arxiv.org/search/?searchtype=author&query=Van+Antwerpen%2C+A), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1273209), [Google Scholar](https://scholar.google.com/citations?user=mi_muVoAAAAJ&hl=nl&oi=ao), [ZbMath](https://zbmath.org/authors/?q=ai%3Avan-antwerpen.arne), [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-7619-6298)
+[CV](https://vanantwerpen.github.io/Academic_CV%20(15).pdf), [Arxiv](https://arxiv.org/search/?searchtype=author&query=Van+Antwerpen%2C+A), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1273209), [Google Scholar](https://scholar.google.com/citations?user=mi_muVoAAAAJ&hl=nl&oi=ao), [ZbMath](https://zbmath.org/authors/?q=ai%3Avan-antwerpen.arne), [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-7619-6298)
 # Publications
 ## Preprints
 * [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415) (w. S. Properzi), Arxiv:2306.12415.
