@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Arne Van Antwerpen
       image:
         filename: hero-academic.png
       cta:
@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +54,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Post-doctoral Assistant
+          company: Universiteit Gent
+          company_url: 'ugent.be'
+          company_logo: org-gent
+          location: Gent, Belgium
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Lecturing
+              * Mentoring students
+              * Research
+        - title: Post-doctoral fellow
+          company: Vrije Universiteit Brussel
+          company_url: 'www.vub.be'
+          company_logo: org-vub
+          location: Brussels, Belgium
+          date_start: '2020-10-01'
+          date_end: '2023-08-31'
+        - title: PhD fellow
+          company: Vrije Universiteit Brussel
+          company_url: 'www.vub.e'
+          company_logo: org-vub
+          location: Brussels, Belgium
+          date_start: '2016-10-01'
+          date_end: '2020-09-30'
     design:
       columns: '2'
   - block: accomplishments
@@ -97,63 +95,63 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
+      #items:
+     #   - certificate_url: https://www.coursera.org
+    #      date_end: ''
+   #       date_start: '2021-01-25'
+  #        description: ''
+          #icon: coursera
+         # organization: Coursera
+        #  organization_url: https://www.coursera.org
+       #   title: Neural Networks and Deep Learning
+      #    url: ''
+     #   - certificate_url: https://www.edx.org
+    #      date_end: ''
+   #       date_start: '2021-01-01'
+  #        description: Formulated informed blockchain models, hypotheses, and use cases.
+          #icon: edx
+         # organization: edX
+        #  organization_url: https://www.edx.org
+       #   title: Blockchain Fundamentals
+      #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+     #   - certificate_url: https://www.datacamp.com
+    #      date_end: '2020-12-21'
+   #       date_start: '2020-07-01'
+          #description: ''
+         # icon: datacamp
+        #  organization: DataCamp
+       #   organization_url: https://www.datacamp.com
+      #    title: 'Object-Oriented Programming in R'
+     #     url: ''
+    #design:
+   #   columns: '2'
+  #- block: collection
+    #id: posts
+    #content:
+      #title: Recent Posts
+      #subtitle: ''
+      #text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      #count: 5
       # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+      #filters:
+        #folders:
+        #  - post
+        #author: ""
+        #category: ""
+        #tag: ""
+       # exclude_featured: false
+      #  exclude_future: false
+        #exclude_past: false
+       # publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+      #offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+     # order: desc
+    #design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      #view: compact
+      #columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -237,47 +235,24 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: arne.vanantwerpen@ugent.be
+      #phone:
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Krijgslaan 281, Building S25
+        city: Gent
+        #region: 
+        postcode: '9000'
+        country: Belgium
+        country_code: BE
+      directions: Enter Building S25
+      #office_hours:
+        #- 'Monday 10:00 to 13:00'
+        #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        latitude: '51.0267099'
+        longitude: '3.7193068'  
     design:
       columns: '2'
 ---
