@@ -77,5 +77,5 @@ social:
 highlight_name: true
 ---
 
-I am a post-doctoral researcher in Algebra at the department of Mathematics: Algebra and Geometry, Universiteit Gent in the group of [Tom De Medts](https://algebra.ugent.be/~tdemedts/){:target="_blank"}. My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
+I am a post-doctoral researcher in Algebra at the department of Mathematics: Algebra and Geometry, Universiteit Gent in the group of [Tom De Medts](https://algebra.ugent.be/~tdemedts/). My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
 {style="text-align: justify;"}
