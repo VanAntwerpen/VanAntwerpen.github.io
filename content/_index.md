@@ -57,7 +57,7 @@ sections:
         - title: Post-doctoral Assistant
           company: Universiteit Gent
           company_url: 'ugent.be'
-          company_logo: org-gent
+          #company_logo: org-gent
           location: Gent, Belgium
           date_start: '2023-09-01'
           date_end: ''
@@ -70,14 +70,14 @@ sections:
         - title: Post-doctoral fellow
           company: Vrije Universiteit Brussel
           company_url: 'www.vub.be'
-          company_logo: org-vub
+          #company_logo: org-vub
           location: Brussels, Belgium
           date_start: '2020-10-01'
           date_end: '2023-08-31'
         - title: PhD fellow
           company: Vrije Universiteit Brussel
-          company_url: 'www.vub.e'
-          company_logo: org-vub
+          company_url: 'www.vub.be'
+          #company_logo: org-vub
           location: Brussels, Belgium
           date_start: '2016-10-01'
           date_end: '2020-09-30'
