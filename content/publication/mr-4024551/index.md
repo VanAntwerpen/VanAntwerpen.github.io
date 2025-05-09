@@ -4,7 +4,7 @@ title: The structure monoid and algebra of a non-degenerate set-theoretic soluti
 authors:
 - Eric Jespers
 - Ł ukasz Kubat
-- Arne Van Antwerpen
+- admin
 date: '2019-01-01'
 publishDate: '2024-05-03T13:45:24.698872Z'
 publication_types:
