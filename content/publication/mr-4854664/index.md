@@ -2,7 +2,7 @@
 title: Common divisor graphs for skew braces
 authors:
 - Silvia Properzi
-- Arne Van Antwerpen
+- admin
 date: '2025-01-01'
 publishDate: '2025-05-09T09:53:13.736164Z'
 publication_types:
