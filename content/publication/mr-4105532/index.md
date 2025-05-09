@@ -3,7 +3,7 @@ title: Corrigendum and addendum to ``The structure monoid and algebra of a non-d
   set-theoretic solution of the Yang--Baxter equation''
 authors:
 - Eric Jespers
-- Ł ukasz Kubat
+- Łukasz Kubat
 - admin
 date: '2020-01-01'
 publishDate: '2024-05-03T13:45:24.687651Z'
