@@ -3,7 +3,7 @@ title: Nilpotency of skew braces and multipermutation solutions of the Yang-Baxt
   equation
 authors:
 - E. Jespers
-- A. Van Antwerpen
+- admin
 - L. Vendramin
 date: '2023-01-01'
 publishDate: '2024-05-03T13:45:24.641165Z'
