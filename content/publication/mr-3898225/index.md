@@ -2,7 +2,7 @@
 title: Left semi-braces and solutions of the Yang-Baxter equation
 authors:
 - Eric Jespers
-- Arne Van Antwerpen
+- admin
 date: '2019-01-01'
 publishDate: '2024-05-03T13:45:24.711838Z'
 publication_types:
