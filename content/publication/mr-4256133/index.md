@@ -4,7 +4,7 @@ title: Radical and weight of skew braces and their applications to structure gro
 authors:
 - E. Jespers
 - Ł . Kubat
-- A. Van Antwerpen
+- admin
 - L. Vendramin
 date: '2021-01-01'
 publishDate: '2024-05-03T13:45:24.665914Z'
