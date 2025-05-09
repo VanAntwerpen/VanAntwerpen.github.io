@@ -2,7 +2,7 @@
 title: The algebraic structure of left semi-trusses
 authors:
 - Ilaria Colazzo
-- Arne Van Antwerpen
+- admin
 date: '2021-01-01'
 publishDate: '2024-05-03T13:45:24.677150Z'
 publication_types:
