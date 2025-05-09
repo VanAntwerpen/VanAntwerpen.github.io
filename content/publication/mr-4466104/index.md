@@ -4,7 +4,7 @@ title: Left non-degenerate set-theoretic solutions of the Yang-Baxter equation a
 authors:
 - I. Colazzo
 - E. Jespers
-- A. Van Antwerpen
+- admin
 - C. Verwimp
 date: '2022-01-01'
 publishDate: '2024-05-03T13:45:24.656822Z'
