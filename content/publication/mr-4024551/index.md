@@ -3,7 +3,7 @@ title: The structure monoid and algebra of a non-degenerate set-theoretic soluti
   of the Yang-Baxter equation
 authors:
 - Eric Jespers
-- Ł ukasz Kubat
+- Łukasz Kubat
 - admin
 date: '2019-01-01'
 publishDate: '2024-05-03T13:45:24.698872Z'
