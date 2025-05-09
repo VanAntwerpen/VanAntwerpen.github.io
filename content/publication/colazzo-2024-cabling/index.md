@@ -3,7 +3,7 @@ title: On the cabling of non-involutive set-theoretic solutions of the Yang--Bax
   equation
 authors:
 - Ilaria Colazzo
-- Arne Van Antwerpen
+- admin
 date: '2024-01-01'
 publishDate: '2025-05-09T09:53:13.745846Z'
 publication_types:
