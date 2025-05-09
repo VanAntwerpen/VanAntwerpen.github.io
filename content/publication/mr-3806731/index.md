@@ -1,7 +1,7 @@
 ---
 title: Coleman automorphisms of finite groups and their minimal normal subgroups
 authors:
-- Arne Van Antwerpen
+- admin
 date: '2018-01-01'
 publishDate: '2024-05-03T13:45:24.718042Z'
 publication_types:
