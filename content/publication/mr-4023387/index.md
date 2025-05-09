@@ -3,7 +3,7 @@ title: Factorizations of skew braces
 authors:
 - E. Jespers
 - Ł . Kubat
-- A. Van Antwerpen
+- admin
 - L. Vendramin
 date: '2019-01-01'
 publishDate: '2024-05-03T13:45:24.705429Z'
