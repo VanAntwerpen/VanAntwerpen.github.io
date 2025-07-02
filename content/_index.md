@@ -240,7 +240,7 @@ sections:
       #phone:
       #appointment_url: 'https://calendly.com'
       address:
-        street: Krijgslaan 281, Building S25
+        street: Krijgslaan 281, Building S9
         city: Gent
         #region: 
         postcode: '9000'
@@ -252,8 +252,8 @@ sections:
         #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '51.0267099'
-        longitude: '3.7193068'  
+        latitude: '51.0229823'
+        longitude: '3.7103475'  
     design:
       columns: '2'
 ---
