@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral assistant in Mathematics
+role: Assistant Professor in Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universiteit Gent
-    url: https://www.ugent.be/
+  - name: Maynooth University
+    url: https://maynoothuniversity.ie
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include set-theoretic solutions of the Yang-Baxter equation, skew left braces and quadratic algebras.
@@ -77,5 +77,6 @@ social:
 highlight_name: true
 ---
 
-I am a post-doctoral researcher in Algebra at the department of Mathematics: Algebra and Geometry, Universiteit Gent in the group of [Tom De Medts](https://algebra.ugent.be/~tdemedts/). My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
+I am an assistant professor in the Algebra and Number theory research group at the  department of Mathematics and Statistics at Maynooth University. My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
+I am also affiliated researcher with Universiteit Gent and Vrije Universiteit Brussel.
 {style="text-align: justify;"}

@@ -240,20 +240,21 @@ sections:
       #phone:
       #appointment_url: 'https://calendly.com'
       address:
-        street: Krijgslaan 281, Building S9
-        city: Gent
+        street: Office 231, Logic house, South campus, Maynooth University
+        city: Maynooth
         #region: 
-        postcode: '9000'
-        country: Belgium
-        country_code: BE
+        postcode: 'W23 NX63'
+        country: Ireland
+        country_code: IE
       #directions: 
-      #office_hours:
-        #- 'Monday 10:00 to 13:00'
-        #- 'Wednesday 09:00 to 10:00'
+      office_hours:
+        - 'Monday 15:00 to 16:00'
+        - 'Tuesday 15:00 to 16:00'
+        - 'Thursday 14:00 to 15:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '51.0229823'
-        longitude: '3.7103475'  
+        latitude: '53.37813352804658'
+        longitude: '-6.596183497328826'  
     design:
       columns: '2'
 ---
