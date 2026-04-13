@@ -54,19 +54,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: Maynooth University
+          company_url: 'maynoothuniversity.ie'
+          #company_logo: org-gent
+          location: Maynooth, Ireland
+          date_start: '2025-09-22'
+          date_end: ''
         - title: Post-doctoral Assistant
           company: Universiteit Gent
           company_url: 'ugent.be'
           #company_logo: org-gent
           location: Gent, Belgium
           date_start: '2023-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Lecturing
-              * Mentoring students
-              * Research
+          date_end: '2025-08-31'
         - title: Post-doctoral fellow
           company: Vrije Universiteit Brussel
           company_url: 'www.vub.be'
@@ -236,7 +237,7 @@ sections:
       text: |-
        
       # Contact (add or remove contact options as necessary)
-      email: arne.vanantwerpen@ugent.be
+      email: arne.vanantwerpen@mu.ie
       #phone:
       #appointment_url: 'https://calendly.com'
       address:
