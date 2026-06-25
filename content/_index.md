@@ -42,6 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: Conferences
+    content:
+      title: Conferences on the horizon
+      items: 
+        - title: Braiding New Ground 
+        url: https://vanantwerpen.github.io/BraidingNewGround/
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: experience
     content:
       title: Experience
