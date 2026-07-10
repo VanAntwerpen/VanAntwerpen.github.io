@@ -14,3 +14,4 @@ abstract: 'We offer a workable construction of the free right nilpotent skew bra
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2606.27056
+---
