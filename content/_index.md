@@ -43,7 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-  content:
+    content:
     title: Latest research notes
     text: Fresh from the lab notebook.
     count: 6
@@ -61,7 +61,7 @@ sections:
       enable: true
       text: All posts
       link: /post/
-  design:
+    design:
     view: card
     columns: 3
     fill_image: true
