@@ -43,12 +43,6 @@ sections:
     ce: "section-about"
     id: "about"
     As: "section-14530f1d"
-  - block: "markdown"
-    content:
-      text: "I co-organize, joint with S. Moller, a conference [Braiding New Ground: Vertex algebras meet Yang-Baxter](https://vanantwerpen.github.io/BraidingNewGround/) running from 17 Sept 2026 to 18 Sept at Maynooth University. "
-      title: "Recent News and upcoming events"
-    ce: "section-5-markdown"
-    As: "section-13a8b61e"
   - block: "experience"
     content:
       title: "Experience"
