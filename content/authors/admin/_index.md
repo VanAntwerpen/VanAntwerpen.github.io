@@ -77,6 +77,9 @@ social:
 highlight_name: true
 ---
 
-I am an assistant professor in the Algebra and Number theory research group at the  department of Mathematics and Statistics at Maynooth University. My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
-I am also affiliated researcher with Universiteit Gent and Vrije Universiteit Brussel.
+I am an assistant professor in the Algebra and Number theory research group at the department of Mathematics and Statistics at Maynooth University. My current research focuses on set-theoretic solutions of the Yang-Baxter equation and relating their properties to groups, rings and a recently introduced notion called skew braces. Vice versa, I employ set-theoretic solutions of the Yang-Baxter equation to construct exciting groups and rings, containing polycyclic groups, RAAG's, quadratic algebras and Jacobson radical rings.
+
+I am visiting professor at Universiteit Gent and also affiliated researcher with Vrije Universiteit Brussel.
+
+Currently, I am co-organizing a workshop ['Braiding New Ground: Vertex algebras meet Yang-Baxter equation'](https://vanantwerpen.github.io/BraidingNewGround/) with Sven Möller at Maynooth University.
 {style="text-align: justify;"}
